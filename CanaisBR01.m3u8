@@ -1101,6 +1101,8 @@ http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/91579.ts
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/37121.ts
 #EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/dSWSffw.png" group-title="CANAIS | Infantil",Cartoon Network HD
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/36927.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="NickOnline" tvg-logo="https://assets.propmark.com.br/uploads/2023/09/Nick.jpeg" group-title="CANAIS | Infantil",NickOnline SD
+https://x1co.com.br:2096/
 #EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="CANAIS | Infantil",Cartoonito
 http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/37123.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="Cartoonito HD" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="CANAIS | Infantil",Cartoonito HD
